@@ -1,0 +1,28 @@
+{
+  "name": "gp-db",
+  "version": "1.0.0",
+  "description": "gohplay lib",
+  "main": "index.js",
+  "dependencies": {
+    "feed-read": "^0.0.1",
+    "feedparser": "^1.0.1",
+    "iconv": "^2.1.6",
+    "lodash": "^3.7.0",
+    "moment": "^2.10.2",
+    "request": "^2.55.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sahina/gp-db.git"
+  },
+  "author": "Altug Sahin <altug@aecoffice.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahina/gp-db/issues"
+  },
+  "homepage": "https://github.com/sahina/gp-db"
+}
