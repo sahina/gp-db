@@ -7,3 +7,4 @@ var uefa = require('./lib/uefa');
 // }));
 
 console.log(uefa.clubs());
+console.log(uefa.associations());
