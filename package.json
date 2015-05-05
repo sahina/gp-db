@@ -6,7 +6,7 @@
   "dependencies": {
     "lodash": "^3.7.0",
     "moment": "^2.10.2",
-    "mongodb": "^2.0.28"
+    "mongoose": "^4.0.2"
   },
   "devDependencies": {},
   "scripts": {
