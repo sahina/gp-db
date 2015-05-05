@@ -4,12 +4,9 @@
   "description": "gohplay lib",
   "main": "index.js",
   "dependencies": {
-    "feed-read": "^0.0.1",
-    "feedparser": "^1.0.1",
-    "iconv": "^2.1.6",
     "lodash": "^3.7.0",
     "moment": "^2.10.2",
-    "request": "^2.55.0"
+    "mongodb": "^2.0.28"
   },
   "devDependencies": {},
   "scripts": {
